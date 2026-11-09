@@ -1,0 +1,4 @@
+# Managed by TachyonX Labs Review Control; required CI and manual reviews unaffected.
+reviews:
+  auto_review:
+    enabled: false
